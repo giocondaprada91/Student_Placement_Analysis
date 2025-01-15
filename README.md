@@ -51,14 +51,8 @@ The dataset `Placement.csv` contains 215 student records with the following colu
 ## Repository Structure
 ```
 Programming_for_Analysis_Project/
-├── data/
-│   └── Placement.csv               # Dataset
-├── notebooks/
-│   └── placement_analysis.ipynb    # Jupyter Notebook with the analysis
-├── visuals/
-│   ├── academic_performance.png    # Visualization 1
-│   ├── placement_by_workex.png     # Visualization 2
-│   └── correlation_heatmap.png     # Visualization 3
+├── data.xls               # Dataset
+├── Scripts # Jupyter Notebook with the analysis
 └── README.md                       # Project description
 ```
 
